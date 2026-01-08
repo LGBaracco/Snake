@@ -1,4 +1,4 @@
-*Snake*
+# Snake
 
 Simple Snake game created in Pygame. 
 
