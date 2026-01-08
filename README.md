@@ -1,1 +1,7 @@
-Simple Snake game created in 2020. Custom levels can be created through .txt files
+*Snake*
+
+Simple Snake game created in Pygame. 
+
+Custom levels can be created through .txt files.
+
+Developed in 2020.
